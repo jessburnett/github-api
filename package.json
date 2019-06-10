@@ -1,0 +1,11 @@
+{
+  "name": "github-jobs",
+  "version": "1.0.0",
+  "description": "github jobs api playground",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jessica Burnett",
+  "license": "MIT"
+}
